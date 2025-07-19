@@ -1,5 +1,5 @@
 🔍 Lz7Tools - OSINT and Network Scanner Menu
-
+![Lz7Tools Screenshot](interface.jpg)
 An interactive menu with simple yet powerful tools for pentesters, forensic analysts, and cybersecurity enthusiasts.
 
 
