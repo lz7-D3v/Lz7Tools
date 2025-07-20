@@ -21,7 +21,7 @@ banner_ascii = f"""
 {Fore.RED}$$$$$$$$/ $$$$$$$$/ $$/       
 
 {Fore.WHITE}             Lz7 Tools by @Lz7.D3v
-print(Fore.RED + "-" * 50)
+{Fore.RED}──────────────────────────────
 
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
